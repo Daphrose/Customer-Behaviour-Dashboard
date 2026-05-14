@@ -15,5 +15,3 @@ Interactive Excel dashboard analyzing customer behavior, sales trends, and purch
 - KPI tracking
 - Top customers analysis
 
-## Dashboard Preview
-![Dashboard Preview](C:\Users\HP\OneDrive\Desktop\Customer behaviour dashboard\images\images\dashboard_preview.jpg)
